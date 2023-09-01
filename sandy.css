@@ -1,0 +1,23 @@
+.whitespan{
+    color: #00ff15;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.blackspan{
+    color:#c70f0f;
+    font-size: 32px;
+    padding-left: 13px;
+}
+.bg{
+    background-image: url("https://media.sf-converter.com/get?__sig=vqCyd4e6ovMkW72Wei-0tQ&__expires=1693466286&uri=https%3A%2F%2Finstagram.fbog2-4.fna.fbcdn.net%2Fv%2Ft51.2885-15%2F366500703_567439948747465_4524150331842729228_n.webp%3Fstp%3Ddst-jpg_e35%26_nc_ht%3Dinstagram.fbog2-4.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DyatNmYmFgCgAX8W93Xo%26edm%3DAP_V10EBAAAA%26ccb%3D7-5%26oh%3D00_AfBYNqmFLyPOaqMflImsFR87LJQqEkBM_tyY73_aHJoKMA%26oe%3D64F4C9A0%26_nc_sid%3D2999b8");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+body{
+    color: #fff;
+}
+.chess-board{
+    display: flex;
+}
+
